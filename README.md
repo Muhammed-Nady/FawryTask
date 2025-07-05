@@ -12,7 +12,7 @@ This is a simple console app built in C# for the **Fawry Internship Challenge**.
   - Shipping fees
   - Total amount
   - Updated customer balance
-- Show shipped items and their total weight
+- Show shipped items and their weight
 
 ## Example Output
 ![image](https://github.com/user-attachments/assets/4e0e8fd4-0937-41c0-be32-c10fac01137d)
