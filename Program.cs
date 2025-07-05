@@ -14,7 +14,7 @@ namespace MainProject
 
             Cart myCart = new Cart();
             myCart.Add(Cheese, 20);
-            myCart.Add(Cheese, 90); // can't add in the stock
+            myCart.Add(Cheese, 90); //can't add in the stock
             myCart.Add(Biscuits, 7);
             myCart.Add(TV, 2);
             myCart.Add(MSC, 5);
